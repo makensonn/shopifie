@@ -1,5 +1,24 @@
 # shopifyy
 
+#Clickable moving header 
+
+<style>
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+<a href="https://thousandmen.co/collections/all">
+  <video muted autoplay playsinline loop>
+    <source src="/media/cc0-videos/flower.mp4" type="video/mp4">
+    <source src="https://cdn.shopify.com/videos/c/o/v/8fdd763940734076af72c7794e08401f.mp4" type="video/mp4">
+  </video>
+</a>
+ ------------------------------------------------------------------------------------------------------------------
+ 
 #SHOPIFY MOVING HEADER
 <style>
 video {
@@ -16,7 +35,7 @@ margin: 0 auto;
                   type="video/mp4">
 </video>
 
-
+--------------------------------------------------------------------------------------------------------------------
 #Custom Sale from nav
 
 nav a[href="/collections/sale"], 
