@@ -15,3 +15,21 @@ margin: 0 auto;
     <source src="https://cdn.shopify.com/videos/c/o/v/6108904efb5a4e9ebbabfd333d2ee518.mp4"
                   type="video/mp4">
 </video>
+
+
+#Custom Sale from nav
+
+nav a[href="/collections/sale"], 
+nav a[href^="/fr/collections/sale"], 
+nav a[href^="/es/collections/sale"] {
+  color: green !important; 
+  font-weight: bold; 
+  text-transform: uppercase; 
+  text-decoration: none; 
+  transition: color 0.3s ease;
+} 
+nav a[href="/collections/sale"]:hover, 
+nav a[href^="/fr/collections/sale"]:hover, 
+nav a[href^="/es/collections/sale"]:hover { 
+  color: red !important; 
+}
