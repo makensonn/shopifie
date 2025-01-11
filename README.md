@@ -17,6 +17,8 @@ video {
     <source src="https://cdn.shopify.com/videos/c/o/v/8fdd763940734076af72c7794e08401f.mp4" type="video/mp4">
   </video>
 </a>
+
+
  ------------------------------------------------------------------------------------------------------------------
  
 #SHOPIFY MOVING HEADER
