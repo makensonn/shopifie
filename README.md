@@ -1,4 +1,4 @@
-# shopifyy
+# shopifie
 
 Shopifie is a custom Shopify theme developed and maintained by Makenson to enhance the e-commerce experience. This repository contains the codebase for a range of Shopify stores, including products, collections, and drops, with a focus on custom HTML, CSS, and JavaScript integrations. It also incorporates the Shopify Liquid templating language to build dynamic and responsive e-commerce solutions.
 
